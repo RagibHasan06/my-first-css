@@ -1,0 +1,38 @@
+.header{
+    height: 400px; text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+background-color: aquamarine;
+background-image: url('Logo/Somaroho\ Monogrm.jpeg');
+/* background-image: url(../); */
+
+/* background-repeat: none; */
+/* background-repeat: repeat-x; */
+/* background-repeat: repeat-y; */
+/* background-size: cover; */
+/* background-size: contain; */
+/* background-size: 700px 400px; */
+
+/* background-position: top; */
+/* background-position: top left; */
+/* background-position: right left; */
+}
+
+h2{text-decoration: underline; color: red;
+    font-family: Arial, Helvetica, sans-serif;}
+ul{color: blueviolet; font-size: 22; font-weight: 700;}
+ 
+.box{
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+    margin: 30px;padding: 20px;
+    box-shadow: 10px 10px 10px green; 
+    text-align: justify;
+}
+.dd{border: 2px solid tomato;
+
+    /* display: block;} */
+    /* display: inline-block; */
+.second{
+    /* display: none; totally hides with space */
+/* visibility: hidden;} hides without space*/
+
